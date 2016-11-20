@@ -1,6 +1,8 @@
 package utils;
 
 import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 public class ApplicationException extends Exception {
 
